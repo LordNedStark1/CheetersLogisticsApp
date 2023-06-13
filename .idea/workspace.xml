@@ -6,17 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="23c71cad-acf3-4396-9497-972ffab3511a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cheeter/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cheeter/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/controllers/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/cheeter/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cheeter/controllers/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cheeter/data/repositories/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cheeter/data/repositories/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cheeter/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cheeter/service/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/data/repositories/EventRepositoryImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/data/repositories/PackageRepositoryImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/data/repositories/UserRepositoryImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/service/UserServiceImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/service/UserServiceImplTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cheeter/data/repositories/EventRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/cheeter/data/repositories/EventRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cheeter/data/repositories/PackageRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/cheeter/data/repositories/PackageRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cheeter/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/cheeter/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +67,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/USER/IdeaProjects/logisticsApp/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/programs/Maven/userLogins&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -97,7 +89,7 @@
       <recent name="data.repositories" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserServiceImplTest.registerUserTest">
+  <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="PackageRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="logisticsApp" />
       <extension name="coverage">
@@ -174,9 +166,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Main" />
         <item itemvalue="JUnit.UserServiceImplTest.registerUserTest" />
         <item itemvalue="JUnit.UserServiceImplTest" />
-        <item itemvalue="Spring Boot.Main" />
         <item itemvalue="JUnit.UserRepositoryImplTest" />
         <item itemvalue="JUnit.PackageRepositoryImplTest" />
       </list>
@@ -206,6 +198,13 @@
       <workItem from="1683454514004" duration="1188000" />
       <workItem from="1683640783858" duration="4073000" />
       <workItem from="1683726787014" duration="582000" />
+      <workItem from="1683735483520" duration="344000" />
+      <workItem from="1683793391419" duration="102000" />
+      <workItem from="1684579122066" duration="253000" />
+      <workItem from="1685818650695" duration="2507000" />
+      <workItem from="1685896314827" duration="296000" />
+      <workItem from="1686605235001" duration="424000" />
+      <workItem from="1686634824049" duration="155000" />
     </task>
     <servers />
   </component>
