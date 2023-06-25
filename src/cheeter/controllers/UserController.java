@@ -1,16 +1,12 @@
 package cheeter.controllers;
 
-import cheeter.data.models.User;
 import cheeter.dto.requests.RegisterUserRequest;
 import cheeter.dto.response.ApiResponse;
-import cheeter.dto.response.RegisterUserResponse;
 import cheeter.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import cheeter.service.UserServiceImpl;
 
 
 @RestController
@@ -33,5 +29,9 @@ public class UserController {
             return new ResponseEntity<>(new ApiResponse(false, ex.getMessage())
                     , HttpStatus.NOT_FOUND);
         }
+    }
+    @GetMapping("/hospital")
+    public String hospitalCall() {
+        return "hospital";
     }
 }

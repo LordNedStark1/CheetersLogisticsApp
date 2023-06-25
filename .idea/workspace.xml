@@ -7,7 +7,6 @@
     <list default="true" id="23c71cad-acf3-4396-9497-972ffab3511a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cheeter/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cheeter/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cheeter/controllers/UserController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,9 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/3.0.5/spring-data-commons-3.0.5.jar!/org/springframework/data/repository/CrudRepository.class" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -205,6 +207,10 @@
       <workItem from="1685896314827" duration="296000" />
       <workItem from="1686605235001" duration="424000" />
       <workItem from="1686634824049" duration="155000" />
+      <workItem from="1686720787045" duration="355000" />
+      <workItem from="1686740301488" duration="470000" />
+      <workItem from="1686740924944" duration="1198000" />
+      <workItem from="1687716902153" duration="1676000" />
     </task>
     <servers />
   </component>
