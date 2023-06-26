@@ -7,6 +7,13 @@
     <list default="true" id="23c71cad-acf3-4396-9497-972ffab3511a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cheeter/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cheeter/dto/response/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/dto/responses/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cheeter/dto/response/RegisterUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/dto/responses/RegisterUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cheeter/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cheeter/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cheeter/utils/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cheeter/utils/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cheeter/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cheeter/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/service/UserServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +86,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cheeter.data.models" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -211,6 +221,7 @@
       <workItem from="1686740301488" duration="470000" />
       <workItem from="1686740924944" duration="1198000" />
       <workItem from="1687716902153" duration="1676000" />
+      <workItem from="1687774791913" duration="3192000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,9 @@
 package cheeter.controllers;
 
+import cheeter.dto.requests.MyObjectRequest;
 import cheeter.dto.requests.RegisterUserRequest;
-import cheeter.dto.response.ApiResponse;
+import cheeter.dto.responses.ApiResponse;
+import cheeter.dto.responses.RegisterUserResponse;
 import cheeter.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -31,7 +33,13 @@ public class UserController {
         }
     }
     @GetMapping("/hospital")
-    public String hospitalCall() {
+    public String hospitalCall(@RequestBody MyObjectRequest myObject) {
+        System.out.println(myObject);
         return "hospital";
+    }
+    @PostMapping("/register")
+    public RegisterUserResponse registerUser(@RequestBody  RegisterUserRequest registerUserRequest){
+        return userService.registerNewUser(registerUserRequest);
+
     }
 }

@@ -3,7 +3,7 @@ package cheeter.service;
 import cheeter.dto.requests.RegisterUserRequest;
 import cheeter.data.models.User;
 import cheeter.data.repositories.UserRepository;
-import cheeter.dto.response.RegisterUserResponse;
+import cheeter.dto.responses.RegisterUserResponse;
 import cheeter.utils.Mapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

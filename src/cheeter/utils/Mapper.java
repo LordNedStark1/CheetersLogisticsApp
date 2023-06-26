@@ -1,7 +1,7 @@
 package cheeter.utils;
 
 import cheeter.dto.requests.RegisterUserRequest;
-import cheeter.dto.response.RegisterUserResponse;
+import cheeter.dto.responses.RegisterUserResponse;
 import cheeter.data.models.User;
 
 public class Mapper {

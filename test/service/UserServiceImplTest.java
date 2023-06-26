@@ -2,7 +2,7 @@ package service;
 
 import cheeter.data.models.User;
 import cheeter.dto.requests.RegisterUserRequest;
-import cheeter.dto.response.RegisterUserResponse;
+import cheeter.dto.responses.RegisterUserResponse;
 import cheeter.service.UserService;
 import cheeter.service.UserServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
